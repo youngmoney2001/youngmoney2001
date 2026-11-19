@@ -27,7 +27,7 @@ Les projets ci-dessous représentent des domaines de réalisation et de dévelop
 | **DSF Mapper** | Tools for accounting and tax-document workflows, with desktop, API and web components. |
 | **Football Simulation Platform** | Football management and match-simulation systems, backend engine and mobile experience. |
 | **AI-Assisted Trading Platform** | Swing-trading research, technical indicators, explainable analysis and risk controls. |
-| **LightOps IoT Platform** | Connected-asset monitoring, telemetry, maps, alerts and supervision. |
+| **LightCow IoT Platform** | Connected-asset monitoring, telemetry, maps, alerts and supervision. |
 | **Football Predictor** | Data-driven football prediction research, model evaluation and backtesting. |
 
 ## Technologies / Technologies
