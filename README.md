@@ -1,61 +1,60 @@
 # Ambadiang Emmanuel Junior
 
-**Software Developer | IoT & Telecommunications | AI-Driven Applications | Full-Stack Engineering**
+**Software Engineer | IoT & Telecommunications | Applied AI & Data | Full-Stack Product Engineering**
 
-I design and build software products that connect real-world systems, data, and intelligent applications. My work spans connected devices and network simulation, data-driven tools, web platforms, and mobile applications.
+I build software systems that connect devices, data and people. My work spans network simulation, connected-device platforms, decision-support applications, financial and sports analytics, and full-stack products.
 
-Je conçois et développe des solutions logicielles qui relient les systèmes physiques, les données et les applications intelligentes. Mes projets couvrent l'IoT et les télécommunications, la simulation réseau, les outils orientés données, les plateformes web et les applications mobiles.
+Je conçois des systèmes logiciels qui relient les objets connectés, les données et les utilisateurs. Mes projets couvrent la simulation réseau, les plateformes IoT, les outils d'aide à la décision, l'analyse financière et sportive, ainsi que le développement full-stack.
 
 ---
 
-## Focus areas / Domaines
+## Featured projects / Projets à découvrir
 
-- **IoT & Telecommunications:** connected-device platforms, LoRaWAN concepts, radio/network simulation.
-- **AI & Data:** predictive systems, data processing, analytics, decision-support tools.
-- **Full-stack development:** APIs, backend services, web interfaces and mobile applications.
-- **Software engineering:** architecture, testing, automation, Docker and technical documentation.
+### 1. IoT & Telecommunications
+- **[LoRaWAN Network Simulator](https://github.com/youngmoney2001/simulateur-de-reseau-lorawan)** — C++/Python simulator for radio-network behavior, LoRaWAN mechanisms and reproducible experiments. *(Source repository private.)*
+- **[LightOps IoT Platform](https://github.com/youngmoney2001/lightops_main)** — Connected-device monitoring platform with telemetry, maps, alerts and supervision. *(Source repository private.)*
 
-## Selected work / Projets
+### 2. Applied AI, Data & Finance
+- **[AI-Assisted Trading Platform](https://github.com/youngmoney2001/trading)** — Swing-trading research and decision support: technical analysis, explainability, risk controls and multi-timeframe workflows. *(Source repository private.)*
+- **[Football Predictor](https://github.com/youngmoney2001/foot_pre)** — Football prediction research with machine-learning models, evaluation and backtesting. Performance claims are intentionally limited to measured results. *(Source repository private.)*
 
-The following are areas of ongoing or completed project work. Some source repositories are private.
+### 3. Simulation & Game Engineering
+- **[Football Simulation Engine](https://github.com/youngmoney2001/fm_back)** — Backend and simulation engine for football management and match scenarios. *(Source repository private.)*
+- **[Football Mobile App](https://github.com/youngmoney2001/fm)** — Expo / React Native mobile client for the football project. *(Source repository private.)*
 
-Les projets ci-dessous représentent des domaines de réalisation et de développement. Certains dépôts sources sont privés.
+### 4. Business Software
+- **[DSF Mapper](https://github.com/youngmoney2001/dsf_mapper)** — Desktop, API and web tooling for accounting and tax-document workflows. *(Source repository private.)*
 
-| Project area | Overview |
+---
+
+## Technical areas / Compétences techniques
+
+| Area | Technologies and practices |
 |---|---|
-| **LoRaWAN Network Simulator** | C++/Python network simulation, radio behavior and reproducible experiments. |
-| **DSF Mapper** | Tools for accounting and tax-document workflows, with desktop, API and web components. |
-| **Football Simulation Platform** | Football management and match-simulation systems, backend engine and mobile experience. |
-| **AI-Assisted Trading Platform** | Swing-trading research, technical indicators, explainable analysis and risk controls. |
-| **LightCow IoT Platform** | Connected-asset monitoring, telemetry, maps, alerts and supervision. |
-| **Football Predictor** | Data-driven football prediction research, model evaluation and backtesting. |
+| Languages | Python, C++, TypeScript, JavaScript |
+| Backend & APIs | FastAPI, Laravel, REST APIs |
+| Web & mobile | React, Angular, Vite, React Native, Expo |
+| Data & storage | SQL, MySQL, PostgreSQL |
+| Infrastructure | Docker, Redis, Linux |
+| Engineering | Automated testing, simulation, API design, technical documentation |
 
-## Technologies / Technologies
+## Engineering principles / Principes
 
-**Languages:** Python, C++, JavaScript, TypeScript  
-**Backend:** FastAPI, Laravel, REST APIs  
-**Frontend & mobile:** React, Angular, Vite, React Native, Expo  
-**Data & infrastructure:** SQL, MySQL, PostgreSQL, Docker, Redis  
-**Engineering practices:** automated testing, API design, documentation, observability
-
-## What I value / Mes priorités
-
-- Building useful, maintainable and testable software.
-- Turning complex requirements into clear technical systems.
-- Learning continuously and improving through measurable results.
-- Documenting decisions, limitations and system behavior honestly.
+- Build useful, maintainable and testable software.
+- Make technical decisions explicit and document system limitations.
+- Prefer measured performance and reproducible experiments over unsupported claims.
+- Treat security, data protection and reliability as engineering requirements.
 
 - Développer des logiciels utiles, maintenables et testables.
-- Transformer des besoins complexes en systèmes techniques clairs.
-- Progresser continuellement à partir de résultats vérifiables.
-- Documenter honnêtement les décisions, les limites et le fonctionnement des systèmes.
+- Rendre les décisions techniques explicites et documenter les limites.
+- Préférer les performances mesurées et les expériences reproductibles aux affirmations non vérifiées.
+- Considérer la sécurité, la protection des données et la fiabilité comme des exigences d'ingénierie.
 
 ## Contact
 
 - **Email:** [ambadiangemmanueljunior23@gmail.com](mailto:ambadiangemmanueljunior23@gmail.com)
 - **GitHub:** [@youngmoney2001](https://github.com/youngmoney2001)
 
----
+*Open to technical collaboration in software engineering, IoT, telecommunications, applied AI and data-driven products.*
 
-*Open to thoughtful collaboration on software engineering, IoT, data-driven products and applied AI.*  
-*Ouvert aux collaborations autour du développement logiciel, de l'IoT, des produits orientés données et de l'IA appliquée.*
+*Ouvert aux collaborations techniques en développement logiciel, IoT, télécommunications, IA appliquée et produits orientés données.*
